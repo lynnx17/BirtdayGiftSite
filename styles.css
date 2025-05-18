@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    background: linear-gradient(#000000, #EFB0C9);
     color: #ffffff;
 }
 
@@ -12,7 +12,7 @@ h1, h2, h3, h4, p {
 #bff-img {
     width: 150px;
     border-radius: 50%;
-    border: 6px solid #EFB0C9;
+    border: 15px solid #EFB0C9;
     margin-bottom: 10px;
 }
 
@@ -56,9 +56,9 @@ h1, h2, h3, h4, p {
     margin: 20px auto;
     max-width: 400px;
     height: 400px;
-    border: 6px solid white;
+    border: 15px solid #4378ff;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("images/gift-cover.png");
     background-size: cover;
 }
 
